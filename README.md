@@ -1,2 +1,0 @@
-# students-management-system
-crud
